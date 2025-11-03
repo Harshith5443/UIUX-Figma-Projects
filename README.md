@@ -42,7 +42,7 @@ Institution website with courses, instructors, and payment UI.
 
 ### 10. Music Player App
 Interactive music player with animations and responsive UI.  
-![Music Player Screenshot](images/musicplayer.png)
+![Music Player Screenshot](musicplayer.png)
 
 ---
 
