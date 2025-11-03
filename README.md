@@ -46,10 +46,5 @@ Interactive music player with animations and responsive UI.
 
 ---
 
-## 🧰 Tools Used
-- **Figma** – Design and prototyping  
-- **Canva / Illustrator (optional)** – Visual elements  
-- **GitHub** – Version control and project hosting  
 
----
 
