@@ -45,14 +45,14 @@ Interactive music player with animations and responsive UI.
 ![Music Player Screenshot](musicplayer.png)
 
 
-### 10. Music Player App
+### 11.Company Profile Page
 Redesign the Company Profile Page with the goals of making it:
 ● Easy to scan and understand at a glance
 ● Simple to navigate between related sections (Contacts, Jobs, Candidates, Activities,
 etc.)
 ● Efficient for recruiters to perform daily actions (logging a call, adding a job, viewing
 history) 
-![comany Screenshot]([company_profile.png]
+![comany Screenshot](company_profile.png)
 
 ---
 
